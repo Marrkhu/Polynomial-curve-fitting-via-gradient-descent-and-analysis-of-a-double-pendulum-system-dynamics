@@ -1,0 +1,1 @@
+# Polynomial-curve-fitting-via-gradient-descent-and-analysis-of-a-double-pendulum-system-dynamics
